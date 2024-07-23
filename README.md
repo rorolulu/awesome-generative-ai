@@ -1055,6 +1055,7 @@ In essence, Generative AI is about feeding an AI system vast amounts of data, tr
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai): paid AI image upscaler delivering enhanced detail and resolution
 * [Image Super-Resolution](https://idealo.github.io/image-super-resolution/) 
 * [Upscale to huge sizes and add detail with SD Upscale : StableDiffusion](https://www.reddit.com/r/StableDiffusion/comments/xkjjf9/upscale_to_huge_sizes_and_add_detail_with_sd/): tutorial on Reddit
+* [AI Upscale Image Up to 40x Losslessly](https://vanceai.com/image-enlarger/): a free choice for AI image upscaling
 
 ## Image Restoration
 
